@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="start_game">Start game</string>
+    <string name="reset_high_score">Reset High Score</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="Play">Play</string>
+    <string name="score_0">Score: 0</string>
+    <string name="start">Start</string>
+    <string name="score__0">Score: 0</string>
+    <string name="restart_game">Restart game</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="score">Score:</string>
+</resources>
